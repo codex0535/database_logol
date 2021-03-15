@@ -1,3 +1,3 @@
-#Project PT Logol Jakarta Mitraindo
+#Project
 
-Created Database to store the news data.
+Created Database to store the news data of PT Logol Jakarta Mitraindo.
